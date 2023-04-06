@@ -15,6 +15,10 @@ Here are some ideas to get you started:
     - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Redux
     - Backend: JavaScript, Node.js, Express.js, MongoDB, Python, Django 
     - Tools: Postman, VSCode, Figma
-- 📫 How to reach me: hikmayousuph@gmail.com
+- 📫 How to reach me:
+    - Github - [Hikmah Yousuph](https://github.com/Hikmahx)
+    -  Email - [hikmayousuph@gmail.com](hikmayousuph@gmail.com)
+    - Frontend Mentor - [@Hikmahx](https://www.frontendmentor.io/profile/Hikmahx)
+    - LinkedIn - [Hikmah Yousuph](linkedin.com/in/hikmah-yousuph-449467204/)
 - ⚡ Fun fact: I love gorging myself on fantasy novels
 
