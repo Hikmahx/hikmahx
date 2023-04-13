@@ -8,7 +8,7 @@ I'm Hikmah Yousuph, a full-stack developer based in Lagos, Nigeria.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on personal projects and writing articles about tech
-- 🌱 I’m currently learning AWS and React Native
+- 🌱 I’m currently learning Nextjs, AWS, and React Native
 - 🤔 I’m looking to gain more experience in web development
 - 💬 Ask me about Front-end development
 - 🧰 Languages and Tools I use:
