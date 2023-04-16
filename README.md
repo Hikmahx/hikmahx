@@ -20,5 +20,4 @@ Here are some ideas to get you started:
     -  Email - [hikmayousuph@gmail.com](hikmayousuph@gmail.com)
     - Frontend Mentor - [@Hikmahx](https://www.frontendmentor.io/profile/Hikmahx)
     - LinkedIn - [Hikmah Yousuph](linkedin.com/in/hikmah-yousuph-449467204/)
-- ⚡ Fun fact: I love gorging myself on fantasy novels
-
+- ⚡ Fun fact: I love reading novels or reading them
