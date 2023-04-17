@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to gain more experience in web development
 - 💬 Ask me about Front-end development
 - 🧰 Languages and Tools I use:
-    - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Redux
+    - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Nextjs, Redux
     - Backend: JavaScript, Node.js, Express.js, MongoDB, Python, Django 
     - Tools: Postman, VSCode, Figma
 - 📫 How to reach me:
