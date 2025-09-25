@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Front-end development
 - 🧰 Languages and Tools I use:
     - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Nextjs, MDX, React Native, Redux, Jest
-    - Backend: JavaScript, Node.js, Express.js, MongoDB, GraphQL, Python, Django 
+    - Backend: JavaScript, Node.js, Express.js, MongoDB, GraphQL, Python, Django, Prisma
     - Tools: Postman, VSCode, Figma
 - 📫 How to reach me:
     - Github - [Hikmah Yousuph](https://github.com/Hikmahx)
