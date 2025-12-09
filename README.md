@@ -7,12 +7,12 @@ I'm Hikmah Yousuph, a full-stack developer based in Lagos, Nigeria.
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on personal projects and writing articles about tech
-- 🌱 I’m currently learning Vue.js and Animations
+- 🔭 I’m currently working on personal projects and improving my skills
+- 🌱 I’m currently learning SQL ie PostgreSQL
 - 💼 I’m also looking for a part-time or full-time job
 - 💬 Ask me about Front-end development
 - 🧰 Languages and Tools I use:
-    - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Nextjs, MDX, React Native, Redux, Jest
+    - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Nextjs, MDX, React Native, Redux, Jest, Vuejs
     - Backend: JavaScript, Node.js, Express.js, MongoDB, GraphQL, Python, Django, Prisma
     - Tools: Postman, VSCode, Figma
 - 📫 How to reach me:
