@@ -8,9 +8,9 @@ I'm Hikmah Yousuph, a full-stack developer based in Lagos, Nigeria.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on personal projects and improving my skills
-- 🌱 I’m currently learning SQL, ie PostgreSQL, and AI/ML
+- 🌱 I’m currently learning AI/ML and SQL (PostgreSQL)
 - 💼 I’m also looking for a part-time or full-time job
-- 💬 Ask me about Front-end development
+- 💬 Ask me about software development
 - 🧰 Languages and Tools I use:
     - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Nextjs, MDX, React Native, Redux, Jest, Vuejs
     - Backend: JavaScript, Node.js, Express.js, MongoDB, GraphQL, Python, Django, Prisma
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
     - Github - [Hikmah Yousuph](https://github.com/Hikmahx)
     -  Email - [hikmayousuph@gmail.com](hikmayousuph@gmail.com)
     - Frontend Mentor - [@Hikmahx](https://www.frontendmentor.io/profile/Hikmahx)
-    - LinkedIn - [Hikmah Yousuph](linkedin.com/in/hikmah-yousuph-449467204/)
+    - LinkedIn - [Hikmah Yousuph](linkedin.com/in/hikmah-yousuph/)
 - ⚡ Fun fact: I love reading novels and writing them
