@@ -8,7 +8,7 @@ I'm Hikmah Yousuph, a full-stack developer based in Lagos, Nigeria.
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on personal projects and improving my skills
-- 🌱 I’m currently learning AI/ML and SQL (PostgreSQL)
+- 🌱 I’m currently learning Cybersecurity and AI/ML
 - 💼 I’m also looking for a part-time or full-time job
 - 💬 Ask me about software development
 - 🧰 Languages and Tools I use:
