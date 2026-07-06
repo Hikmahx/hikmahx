@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about software development or AI engineering
 - 🧰 Languages and Tools I use:
     - Frontend: HTML, CSS, Sass, Tailwind, Bootstrap, JavaScript, TypeScript, React, Nextjs, MDX, React Native, Redux, Jest, Vuejs
-    - Backend: JavaScript, Node.js, Express.js, MongoDB, GraphQL, Python, FastAPI, Django, Prisma
+    - Backend: JavaScript, Node.js, Express.js, MongoDB, PostgreSQL, GraphQL, Python, FastAPI, Django, Prisma
     - AI/Data: NumPy, Pandas, STT, TTS, Groq, RAG, Vector Databases, AI Agents, CrewAI  
     - Tools: Postman, Figma, VSCode, Cursor, Claude
 - 📫 How to reach me:
