@@ -1,6 +1,6 @@
 ### Hi there! 👋
 ****
-I'm Hikmah Yousuph, a full-stack developer based in Lagos, Nigeria. 
+I'm Hikmah Yousuph, a full-stack developer with experience in UI design and AI engineering. 
 
 <!--
 **Hikmahx/hikmahx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
